@@ -1,2 +1,1 @@
-# github_practise
-my GitHub document
+This is my github document
